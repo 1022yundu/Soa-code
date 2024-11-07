@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="888aec81-6358-4135-9795-be9a1fa072a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/controller/FeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/service/FeignService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/controller/FeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/config/RibbonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/controller/RibbonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/service/RibbonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/EurekaProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/test/java/com/itheima/eurekaprovider/EurekaProviderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java_dep\apache-maven-3.9.9\mvn_repo" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\Java_dep\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2oWXXS8hTRvKa5T88pnaRm36GoJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EurekaFeignClientApplication.executor": "Run",
+    "Spring Boot.EurekaServerApplication.executor": "Run",
+    "Spring Boot.FeignProviderApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/CHENQD/Desktop/SOA原理/code/第4章代码/第一个实例",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaFeignClientApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="FeignAndParaBinder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="FeignAndParaBinder" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaFeignClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-feign-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.eurekafeignclient.EurekaFeignClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignProviderAnotherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="feign-provider-another" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.feignprovideranother.FeignProviderAnotherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="feign-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.feignprovider.FeignProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="888aec81-6358-4135-9795-be9a1fa072a3" name="Changes" comment="" />
+      <created>1730986346009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730986346009</updated>
+      <workItem from="1730986346973" duration="4722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
