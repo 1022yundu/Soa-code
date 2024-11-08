@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="888aec81-6358-4135-9795-be9a1fa072a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/pojo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovider/FeignProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovider/controller/FeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovider/pojo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/pojo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/controller/FeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/controller/FeignController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/service/FeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/service/FeignService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/controller/FeignController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/controller/FeignController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/service/FeignService.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/service/FeignService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider-another/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovideranother/FeignProviderAnotherApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider-another/src/test/java/com/itheima/feignprovideranother/FeignProviderAnotherApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider-another/src/test/java/com/itheima/feignprovider/FeignProviderApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/controller/FeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/controller/FeignController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feign-provider/target/classes/com/itheima/feignprovider/controller/FeignController.class" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider/target/classes/com/itheima/feignprovider/controller/FeignController.class" afterDir="false" />
-    </list>
+    <list default="true" id="888aec81-6358-4135-9795-be9a1fa072a3" name="Changes" comment="feign的负载均衡以及参数绑定" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,11 +191,24 @@
       <updated>1730986346009</updated>
       <workItem from="1730986346973" duration="4722000" />
       <workItem from="1731028219333" duration="1221000" />
-      <workItem from="1731029459177" duration="5865000" />
+      <workItem from="1731029459177" duration="6248000" />
     </task>
+    <task id="LOCAL-00001" summary="feign的负载均衡以及参数绑定">
+      <option name="closed" value="true" />
+      <created>1731035421855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731035421855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feign的负载均衡以及参数绑定" />
+    <option name="LAST_COMMIT_MESSAGE" value="feign的负载均衡以及参数绑定" />
   </component>
 </project>
