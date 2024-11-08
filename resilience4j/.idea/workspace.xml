@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d2b551d-9726-4d0c-94b8-f234b38028cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-provider/src/main/java/com/itheima/eurekaprovider/EurekaProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/eurekaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-provider/src/test/java/com/itheima/eurekaprovider/EurekaProviderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/java/com/itheima/eurekaresilience4jclient/EurekaResilience4jClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/java/com/itheima/eurekaresilience4jclient/config/ribbonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/java/com/itheima/eurekaresilience4jclient/service/localService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/test/java/com/itheima/eurekaresilience4jclient/EurekaResilience4jClientApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/config/RibbonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/config/RibbonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/controller/RibbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/controller/RibbonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/service/RibbonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/service/RibbonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/config/RibbonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/config/RibbonConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/controller/RibbonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/controller/RibbonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/service/RibbonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/service/RibbonService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;1022yundu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:1022yundu/Soa-code.git&quot;,
+    &quot;accountId&quot;: &quot;bbe1a3e1-6b46-4446-80bd-1ff274a19a89&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java_dep\apache-maven-3.9.9\mvn_repo" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="showDialogWithAdvancedSettings" value="true" />
+        <option name="userSettingsFile" value="D:\Java_dep\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oYlLxBooyS1l81ZflidWNxbNlk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EurekaProviderApplication.executor": "Run",
+    "Spring Boot.EurekaResilience4jClientApplication.executor": "Run",
+    "Spring Boot.EurekaResilienceFeignClientApplication.executor": "Run",
+    "Spring Boot.EurekaServerApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javacode/soa_study/eureka-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaProviderApplication">
+    <configuration name="EurekaProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.eurekaprovider.EurekaProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaResilience4jClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-resilience4j-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.eurekaresilience4jclient.EurekaResilience4jClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaResilienceFeignClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-resilience-feign-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.eurekaresiliencefeignclient.EurekaResilienceFeignClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2b551d-9726-4d0c-94b8-f234b38028cb" name="Changes" comment="" />
+      <created>1731054339064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731054339064</updated>
+      <workItem from="1731054340011" duration="5115000" />
+      <workItem from="1731059482974" duration="780000" />
+      <workItem from="1731060503481" duration="2558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
