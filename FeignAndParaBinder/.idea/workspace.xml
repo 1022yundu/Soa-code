@@ -5,22 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="888aec81-6358-4135-9795-be9a1fa072a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/controller/FeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/service/FeignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/controller/FeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/config/RibbonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/controller/RibbonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/service/RibbonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/EurekaProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/test/java/com/itheima/eurekaprovider/EurekaProviderApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovider/FeignProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovider/controller/FeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovider/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feign-provider-another/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/controller/FeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/controller/FeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/service/FeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/src/main/java/com/itheima/eurekafeignclient/service/FeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/controller/FeignController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/controller/FeignController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/service/FeignService.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-feign-client/target/classes/com/itheima/eurekafeignclient/service/FeignService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider-another/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/src/main/java/com/itheima/feignprovideranother/FeignProviderAnotherApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider-another/src/test/java/com/itheima/feignprovideranother/FeignProviderAnotherApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider-another/src/test/java/com/itheima/feignprovider/FeignProviderApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/controller/FeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider/src/main/java/com/itheima/feignprovider/controller/FeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign-provider/target/classes/com/itheima/feignprovider/controller/FeignController.class" beforeDir="false" afterPath="$PROJECT_DIR$/feign-provider/target/classes/com/itheima/feignprovider/controller/FeignController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +43,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "1022yundu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:1022yundu/Soa-code.git",
+    "accountId": "bbe1a3e1-6b46-4446-80bd-1ff274a19a89"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -57,9 +74,9 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2oWXXS8hTRvKa5T88pnaRm36GoJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -77,11 +94,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.EurekaFeignClientApplication.executor": "Run",
     "Spring Boot.EurekaServerApplication.executor": "Run",
+    "Spring Boot.FeignProviderAnotherApplication.executor": "Run",
+    "Spring Boot.FeignProviderApplication (1).executor": "Run",
     "Spring Boot.FeignProviderApplication.executor": "Run",
+    "Spring Boot.Unnamed.executor": "Run",
+    "Spring Boot.feignprovider.executor": "Run",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/CHENQD/Desktop/SOA原理/code/第4章代码/第一个实例",
+    "last_opened_file_path": "D:/javacode/soa_study/FeignAndParaBinder/feign-provider-another",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,6 +116,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javacode\soa_study\FeignAndParaBinder\feign-provider-another" />
+      <recent name="D:\javacode\soa_study\FeignAndParaBinder\eureka-feign-client\src\main\java\com\itheima\eurekafeignclient" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -105,7 +132,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaFeignClientApplication">
+  <component name="RunManager" selected="Spring Boot.feignprovider">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="FeignAndParaBinder" />
       <method v="2">
@@ -140,13 +167,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FeignProviderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="feign-provider-another" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.feignprovider.FeignProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FeignProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="feign-provider-another" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.feignprovider.FeignProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feignprovider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="feign-provider" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.feignprovider.FeignProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaFeignClientApplication" />
+      <item itemvalue="Spring Boot.feignprovider" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.FeignProviderApplication (1)" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -165,6 +212,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730986346009</updated>
       <workItem from="1730986346973" duration="4722000" />
+      <workItem from="1731028219333" duration="1221000" />
+      <workItem from="1731029459177" duration="5865000" />
     </task>
     <servers />
   </component>

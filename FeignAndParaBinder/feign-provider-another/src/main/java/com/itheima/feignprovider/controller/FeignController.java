@@ -13,7 +13,7 @@ public class FeignController {
     @GetMapping("/hello")
     public String helloAndNonePara() {
         System.out.println("你好，我来自端口:"+port);
-        return "大家好，我是陈桥东，来自"+port+"喜欢唱跳，rap和篮球";
+        return "大家好，我是李涛，来自"+port+"喜欢唱跳，rap和篮球";
     }
 
     @GetMapping("/getName")

@@ -1,10 +1,10 @@
-package com.itheima.feignprovideranother;
+package com.itheima.feignprovider;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FeignProviderAnotherApplicationTests {
+class FeignProviderApplicationTests {
 
     @Test
     void contextLoads() {

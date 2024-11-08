@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.itheima</groupId>
-    <artifactId>feign-provider-another</artifactId>
+    <artifactId>feign-provider</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>feign-provider-another</name>
-    <description>feign-provider-another</description>
+    <name>feign-provider</name>
+    <description>feign-provider</description>
     <url/>
     <licenses>
         <license/>
@@ -34,6 +34,11 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
         <dependency>
