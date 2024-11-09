@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d2b551d-9726-4d0c-94b8-f234b38028cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-provider/src/main/java/com/itheima/eurekaprovider/EurekaProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/eurekaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-provider/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-provider/src/test/java/com/itheima/eurekaprovider/EurekaProviderApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/java/com/itheima/eurekaresilience4jclient/EurekaResilience4jClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/java/com/itheima/eurekaresilience4jclient/config/ribbonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/java/com/itheima/eurekaresilience4jclient/service/localService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-resilience4j-client/src/test/java/com/itheima/eurekaresilience4jclient/EurekaResilience4jClientApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/config/RibbonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/config/RibbonConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/controller/RibbonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/controller/RibbonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/service/RibbonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/src/main/java/com/itheima/eurekaconsumer/service/RibbonService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/config/RibbonConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/config/RibbonConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/controller/RibbonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/controller/RibbonController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/service/RibbonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-consumer/target/classes/com/itheima/eurekaconsumer/service/RibbonService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider-another/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/src/main/java/com/itheima/eurekaprovider/controller/helloContrller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-Ribbon/eureka-provider/target/classes/com/itheima/eurekaprovider/controller/helloContrller.class" afterDir="false" />
-    </list>
+    <list default="true" id="7d2b551d-9726-4d0c-94b8-f234b38028cb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +149,7 @@
       <updated>1731054339064</updated>
       <workItem from="1731054340011" duration="5115000" />
       <workItem from="1731059482974" duration="780000" />
-      <workItem from="1731060503481" duration="2558000" />
+      <workItem from="1731060503481" duration="3671000" />
     </task>
     <servers />
   </component>

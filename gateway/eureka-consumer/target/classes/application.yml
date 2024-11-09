@@ -1,0 +1,19 @@
+server:
+  port: 7307
+spring:
+  application:
+    name: eureka-consumer
+  cloud:
+    openfeign:
+      circuitbreaker:
+        enabled: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7306/eureka/
+    instance:
+      hostname: localhost
+feign:
+  hystrix:
+    enabled: true
+

@@ -1,0 +1,44 @@
+server:
+  port: 7310
+spring:
+  application:
+    name: gateway-resilience4j
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      routes:
+        - id: route1
+          uri: lb://eureka-consumer
+          # uri: http://localhost:8764/
+          predicates:
+            - Path=/hello
+        - id: route2
+          uri: lb://eureka-provider  # loadBalanced
+#          uri: lb://eureka-consumer
+          predicates:
+            - Path=/hello_provider,/hello_consumer
+          filters:
+            - name: CircuitBreaker
+              args:
+                name: userService
+                fallbackUri: forward:/fallback
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7306/eureka/
+    instance:
+      hostname: localhost
+#resilience4j.circuitbreaker:
+#  instances:
+#    userService:
+#      registerHealthIndicator: true
+#      slidingWindowSize: 100
+#      permittedNumberOfCallsInHalfOpenState: 10
+#      waitDurationInOpenState: 5000
+#      failureRateThreshold: 50
+#      eventConsumerBufferSize: 100
