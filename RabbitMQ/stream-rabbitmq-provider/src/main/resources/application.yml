@@ -1,0 +1,20 @@
+server:
+  port: 7307
+spring:
+  application:
+
+    name: stream-rabbitmq-provider
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+  cloud:
+    stream:
+      bindings:
+        myChannel-out-0:
+          destination: ChenQiaoDong
+          group: stream
+          producer:
+            partition-key-expression: headers.par #payload
+            partition-count: 2

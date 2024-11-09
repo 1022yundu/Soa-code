@@ -1,0 +1,20 @@
+server:
+  port: 7308
+spring:
+  application:
+    name: stream-rabbitmq-consumer
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+  cloud:
+    stream:
+      bindings:
+        myChannel-in-0:
+          destination: ChenQiaoDong
+          group: stream
+          consumer:
+            partitioned: true
+      instance-count: 2
+      instance-index: 0
